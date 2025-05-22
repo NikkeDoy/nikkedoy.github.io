@@ -17,7 +17,7 @@
 
 ## 🔗 Links
 
-* **Website:** [https://nikkedoy.github.io](https://nikkedoy.github.io)
+* **Spinny Cube:** [https://nikkedoy.github.io/spinny.html](https://nikkedoy.github.io/spinny.html)
 
 ---
 
