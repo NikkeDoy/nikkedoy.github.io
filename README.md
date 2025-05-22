@@ -13,7 +13,7 @@
 ## 🛠️ Built With
 
 * [Godot](https://godotengine.org/)
-* ❤️ and a little bit of love!
+* ❤️
 
 ## 🔗 Links
 
